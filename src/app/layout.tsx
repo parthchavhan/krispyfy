@@ -7,8 +7,8 @@ import ScrollToTop from "@/components/sections/scrollToTop";
 
 
 export const metadata: Metadata = {
-  title: "Designpro - Productized Design Agency website template",
-  description: "Designpro - Productized Design Agency website template",
+  title: "Krispyfy - Productized Design Agency website template",
+  description: "Krispyfy - Productized Design Agency website template",
   keywords: "personal, portfolio new, html, one page, bootstrap, new html template, design, creative, onepage, clean, modern"
 };
 

@@ -16,16 +16,6 @@ export const menuList:DataType = [
         path:"service"
     },
     {
-        id:3,
-        label:"Projects",
-        path:"project"
-    },
-    {
-        id:4,
-        label:"Pricing",
-        path:"pricing"
-    },
-    {
         id:5,
         label:"Faqs",
         path:"faqs"

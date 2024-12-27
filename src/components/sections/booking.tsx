@@ -8,8 +8,8 @@ const Booking = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SlideUp className="call-to-action-part text-center">
-                            <h2>See if DesignPro is right for you. (It totally is.)</h2>
-                            <p>Get a guided tour through DesignPro, and find out how you and your team can change the way
+                            <h2>See if Krispyfy is right for you. (It totally is.)</h2>
+                            <p>Get a guided tour through Krispyfy, and find out how you and your team can change the way
                                 you source design, forever.</p>
                             <div className="hero-btns">
                                 <a href="#" className="theme-btn">Book a free call</a>

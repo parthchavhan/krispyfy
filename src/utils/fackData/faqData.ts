@@ -31,7 +31,7 @@ export const faqData: DataType = [
     },
     {
         id: "six",
-        question: "What types of designs does Designpro specialize in?",
+        question: "What types of designs does Krispyfy specialize in?",
         ans: "Our childcare center is open from 7:00 AM to 6:00 PM, Monday through Friday. We offer flexible scheduling options to accommodate working families."
     },
 

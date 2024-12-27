@@ -21,7 +21,7 @@ const Faqs = () => {
                             <Image width={140} height={140} src="/images/about/founder.png" alt="founder" title="founder" />
                             <h2>Book a 15-minute intro call</h2>
                             <a href="#" className="theme-btn">Schedule now<i className="ri-video-chat-line" /></a>
-                            <p>Prefer to email? <a href="mailto:hello@designpro.com">hello@designpro.com</a></p>
+                            <p>Prefer to email? <a href="mailto:hello@Krispyfy.com">hello@Krispyfy.com</a></p>
                         </div>
                     </div>
                     <div className="col-lg-8 col-md-6">

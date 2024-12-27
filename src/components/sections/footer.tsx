@@ -6,20 +6,19 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-lg-4">
                             <div className="copyright-text">
-                                <p>Copyright <a>© KRISPYFY</a> All Rights Reserved.</p>
+                                <p>Copyright <a href="https://Krispyfy-parthchavhans-projects.vercel.app/">© Krispyfy</a> All Rights Reserved.</p>
                             </div>
                         </div>
-                        {/* <div className="col-lg-8">
+                        <div className="col-lg-8">
                             <div className="footer-bottom-menu">
                                 <ul>
-                                    <li><a href="#">Latest Project</a></li>
-                                    <li><a href="#">Pricing</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                    <li><a href="#">Privacy Policy</a></li>
-                                    <li><a href="#">Terms &amp; conditions</a></li>
+                                  
+                                    <li><a href="https://www.instagram.com/shashwat_brb/">Shashwat Sharma</a></li>
+                                    <li><a href="https://www.instagram.com/krishhhnnaaa._08/">Parth Jain</a></li>
+                                    <li><a href="https://www.instagram.com/parth_chavhan_/">Krishna Sahu</a></li>
                                 </ul>
                             </div>
-                        </div> */}
+                        </div>
                     </div>
                 </div>
             </div>
