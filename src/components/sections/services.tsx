@@ -11,8 +11,8 @@ const Services = () => {
                     <div className="col-xl-12 col-lg-12">
                         <SectionTitle>
                             <SectionTitle.Name>Services</SectionTitle.Name>
-                            <SectionTitle.Title>Apps, websites &amp; branding</SectionTitle.Title>
-                            <SectionTitle.Description>Get expert solutions for every design need</SectionTitle.Description>
+                            <SectionTitle.Title>Scripts, websites &amp; branding</SectionTitle.Title>
+                            <SectionTitle.Description>Crafting tailored content and digital experiences to elevate your brand.</SectionTitle.Description>
                         </SectionTitle>
                     </div>
                 </div>
