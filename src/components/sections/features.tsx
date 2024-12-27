@@ -10,8 +10,8 @@ const Features = () => {
                     <div className="col-xl-12 col-lg-12">
                         <SectionTitle>
                             <SectionTitle.Name>Features</SectionTitle.Name>
-                            <SectionTitle.Title>Membership benefits</SectionTitle.Title>
-                            <SectionTitle.Description>Perks so good you'll never need to go anywhere else for your design. Seriously.</SectionTitle.Description>
+                            <SectionTitle.Title>Benefits of Krispyfy</SectionTitle.Title>
+                            <SectionTitle.Description>Perks so good you'll never need to go anywhere. Seriously.</SectionTitle.Description>
                         </SectionTitle>
                     </div>
                 </div>

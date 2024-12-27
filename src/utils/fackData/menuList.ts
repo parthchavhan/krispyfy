@@ -7,7 +7,7 @@ type DataType = {
 export const menuList:DataType = [
     {
         id:1,
-        label:"How it works",
+        label:"How we work",
         path:"how"
     },
     {
@@ -15,11 +15,7 @@ export const menuList:DataType = [
         label:"Services",
         path:"service"
     },
-    {
-        id:5,
-        label:"Faqs",
-        path:"faqs"
-    },
+    
     {
         id:6,
         label:"Book Now",
