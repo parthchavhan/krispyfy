@@ -7,9 +7,9 @@ import ScrollToTop from "@/components/sections/scrollToTop";
 
 
 export const metadata: Metadata = {
-  title: "Krispyfy - Productized Design Agency website template",
-  description: "Krispyfy - Productized Design Agency website template",
-  keywords: "personal, portfolio new, html, one page, bootstrap, new html template, design, creative, onepage, clean, modern"
+  title: "Krispyfy ",
+  description: "Krispyfy ",
+  keywords: ""
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

@@ -9,8 +9,8 @@ const Hero = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-12">
                         <SlideUp className="hero-content position-relative">
-                            <h3><i className="ri-bar-chart-line" /> Elevate Your Business <i className="ri-pie-chart-line" /> </h3>
-                            <h2>Create Custom Videos & Scripts to Boost Your Reach.</h2>
+                            <h3><i className="ri-bar-chart-line" /> Elevate Your Business </h3>
+                            <h2>Inspire, Engage, Create, and Amplify Your Brand.</h2>
                             <p>Boost your brand with engaging videos and tailored scripts, designed to expand your reach on Instagram and beyond. 
                                 Start anytime—pause or cancel whenever you need.</p>
                             <div className="hero-btns">

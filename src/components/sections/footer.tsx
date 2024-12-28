@@ -13,10 +13,11 @@ const Footer = () => {
                             <div className="footer-bottom-menu">
                                 <ul>
                                   
+                                <li><a href="https://www.instagram.com/parth_chavhan_/">Parth Jain</a></li>
                                    
-                                    <li><a href="https://www.instagram.com/krishhhnnaaa._08/">Parth Jain</a></li>
                                     <li><a href="https://www.instagram.com/shashwat_brb/">Shashwat Sharma</a></li>
-                                    <li><a href="https://www.instagram.com/parth_chavhan_/">Krishna Sahu</a></li>
+                               
+                                    <li><a href="https://www.instagram.com/krishhhnnaaa._08/">Krishna Sahu</a></li>
                                 </ul>
                             </div>
                         </div>
